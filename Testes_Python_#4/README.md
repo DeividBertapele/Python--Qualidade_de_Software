@@ -25,11 +25,11 @@
 
 =================================================================
 
-Comandos Básicos => se tiver instalado (pydocstyle)
+Comandos Básicos => se tiver instalado (pydocstyle e pycodestyle)
 
  - pydocstyle teste.py
 
- - 
+ - pycodestyle teste.py
 
 
 ---------------------------------------------------------------------------
