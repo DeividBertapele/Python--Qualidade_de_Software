@@ -55,7 +55,7 @@
 - Guias de estilo e padronização de código:
 
     - PEP-8: 
-        - Não importar dois módulos na mesma linda
+        - Não importar dois módulos na mesma linha
 
         - A ordem dois imports importa, SIM
             - Primeiro __future__
