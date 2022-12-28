@@ -78,5 +78,5 @@
             - Evite espaço em branco de qualquer maneira
 
     - PEP-3107: Anotações de funções
-        - Anotações de funçÕes são completamente opcionais
+        - Anotações de funções são completamente opcionais
 
