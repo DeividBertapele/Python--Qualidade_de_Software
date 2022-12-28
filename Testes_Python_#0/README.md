@@ -18,7 +18,7 @@
         - Débito técnico
             -> Reflete o custo de retrabalho por ter escolhido uma solução fácil
         - Cobertura do código (code coverage) 
-            -> É a medida usada para descrever o quanto código fonde de um programa é exercitado, quando é executado nos testes.
+            -> É a medida usada para descrever o quanto código fonte de um programa é exercitado, quando é executado nos testes.
             - Statement Coverage 
             - Branch Coverage 
      
@@ -37,7 +37,7 @@
         - Manutenibilidade de software
             - Facilidade e segurança em efetuar correções ou novas implementações no software
             - Linhas de código
-            - Custo de correção x custo de desenvolvimento
+            - Custo de correção x Custo de desenvolvimento
             - Alto coesão
             - Baixo acoplamento
             - Cobertura de código
@@ -49,7 +49,7 @@
                 - https://peps.python.org/pep-0257/
 
 
-** Qualidade de Software é a capacidade de atender/resolver o problema do cliente de forma a otimizar o trabalho
+ - ** Qualidade de Software é a capacidade de atender/resolver o problema do cliente de forma a otimizar o trabalho. **
 
 ============================================================================================
 - Guias de estilo e padronização de código:
