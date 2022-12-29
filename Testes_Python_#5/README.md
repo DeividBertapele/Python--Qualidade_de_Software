@@ -11,16 +11,12 @@
     vamos ter um grande campo de correções e "defeitos"
 
 
-
-- Tipos de mutação (Aritméticas)
-    - AOD (arithmetic operator deletion)
-    - AOR (arithmetic operator replacement)
-
-
+==========================================================
 Link - Mutpy
-    - https://pypi.org/project/MutPy/0.3.0/
+    - https://pypi.org/project/MutPy/
 
 ===========================================================
+
 Comandos básicos no terminal no mesmo diretório:
 
 --> mut.py --target calculator --unit-test test_calculator -m
@@ -33,34 +29,3 @@ Comandos básicos no terminal no mesmo diretório:
 
 ======================================================================================
 
-# List of MutPy mutation operators:
-
-AOD - arithmetic operator deletion
-AOR - arithmetic operator replacement
-ASR - assignment operator replacement
-BCR - break continue replacement
-COD - conditional operator deletion
-COI - conditional operator insertion
-CRP - constant replacement
-DDL - decorator deletion
-EHD - exception handler deletion
-EXS - exception swallowing
-IHD - hiding variable deletion
-IOD - overriding method deletion
-IOP - overridden method calling position change
-LCR - logical connector replacement
-LOD - logical operator deletion
-LOR - logical operator replacement
-ROR - relational operator replacement
-SCD - super calling deletion
-SCI - super calling insert
-SIR - slice index remove
-Experimental mutation operators:
-
-CDI - classmethod decorator insertion
-OIL - one iteration loop
-RIL - reverse iteration loop
-SDI - staticmethod decorator insertion
-SDL - statement deletion
-SVD - self variable deletion
-ZIL - zero iteration loop
