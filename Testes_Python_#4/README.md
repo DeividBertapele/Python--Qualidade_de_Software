@@ -1,7 +1,8 @@
 # Análise estática de código (linters)
 
     - O que são linters?
-        - É uma ferramenta de análise de código estática. Ele é realizado para sinalizar erros de programação, erros estilísticos, bugs e construções suspeitas que possam prejudicar ou causar o baixo desempenho ao código da aplicação.
+        - É uma ferramenta de análise de código estática. Ele é realizado para sinalizar erros de programação, erros estilísticos, 
+          bugs e construções suspeitas que possam prejudicar ou causar o baixo desempenho ao código da aplicação.
 
     - Com tantas opções, o que fazer?
         - Pylama (junção de linters todos juntos e misturados) -> 1x por semana para usar esta ferramenta
@@ -24,11 +25,11 @@
 
 =================================================================
 
-Comandos Básicos => se tiver instalado (pydocstyle)
+Comandos Básicos => se tiver instalado (pydocstyle e pycodestyle)
 
  - pydocstyle teste.py
 
- - 
+ - pycodestyle teste.py
 
 
 ---------------------------------------------------------------------------
