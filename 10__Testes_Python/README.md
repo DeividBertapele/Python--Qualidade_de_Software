@@ -16,7 +16,7 @@
     python -m unittest tests/tests_fila.py
 
 
-==================================================================================================
+============================================================================================
 # Parte 2 - Testes de Unidades
 
 - Isolado
@@ -36,5 +36,17 @@ Dublês de teste:
     - Spy
     - Stub
     - Mock
+    
+    
+    
+ ============================================================================================
+ 
+ 
+![TESTES DE UNIDADES](https://user-images.githubusercontent.com/43301551/211302711-068e91f4-ca45-44e3-998b-479215e1d7ea.png)
+
+
+
+![Captura de tela 2023-01-09 075817](https://user-images.githubusercontent.com/43301551/211302737-473297e1-665a-468d-abf8-07641932bd1d.png)
+
 
 
