@@ -17,7 +17,7 @@
 
 
 ==================================================================================================
-# Parte 2 - Testes de Unidades
+# Parte 2 - Testes de Unidades (Teórica)
 
 - Isolado
 - Stateless
