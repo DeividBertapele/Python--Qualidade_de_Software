@@ -1,6 +1,7 @@
-behave==1.2.6
-bottle==0.12.23
-MutPy==0.6.1
-pycodestyle==2.10.0
-pydocstyle==6.1.1
-
+behave
+bottle
+Flask
+pycodestyle
+Faker
+factory_boy
+hypothesis
